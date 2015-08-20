@@ -1,6 +1,6 @@
 {
   "name": "ember-deploy-test",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Small description for ember-deploy-test goes here",
   "private": true,
   "directories": {
